@@ -111,15 +111,19 @@ This section provides an easy-to-understand overview of the critical libraries a
 
 ```plaintext
 ├── code/
-│   ├── main.ino            # Arduino code for the main system
-│   ├── esp32_communication.ino  # ESP-NOW communication setup
+│   ├── esp_board_a            # Arduino code for the main system
+│   │   ├── esp_board_a.ino    # Arduino code for esp board A
+│   ├── esp_board_b            # Arduino code for the main system
+│   │   ├── esp_board_b.ino    # Arduino code for esp board B
+│   ├── unit_tests             # Unit tests for component integration
 ├── hardware/
-│   ├── schematic.png        # Schematic of the system
+│   ├── schematic.jpg        # Schematic of the system
 │   ├── block_diagram.png    # Block diagram for component connections
+│   ├── pcb.jpg    # PCB of the system
+│   ├── flow_chart.jpg    # Flow chart of the system
 ├── documentation/
-│   ├── user_manual.pdf      # Detailed user manual
-│   ├── presentation.pptx    # Project presentation
-├── LICENSE                  # License file
+│   ├── project_report.pdf      # Detailed project report
+│   ├── code_review.pdf    # Detailed code review
 └── README.md                # This README file
 ```
 
