@@ -2,8 +2,6 @@
 
 # ⚗️ Automated Acid Diluting System
 
-[![Project License](https://img.shields.io/badge/license-MIT-green)](LICENSE) ![Project Status](https://img.shields.io/badge/status-Active-brightgreen)
-
 Welcome to the **Automated Acid Diluting System** repository! This project aims to improve safety and efficiency in laboratories by automating the process of diluting acids using a microcontroller-based system. By reducing human errors and minimizing exposure to hazardous chemicals, this system brings cutting-edge technology to laboratory processes.
 
 ---
