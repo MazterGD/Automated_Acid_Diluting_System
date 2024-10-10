@@ -116,14 +116,14 @@ This section provides an easy-to-understand overview of the critical libraries a
 │   ├── esp_board_b            # Arduino code for the main system
 │   │   ├── esp_board_b.ino    # Arduino code for esp board B
 │   ├── unit_tests             # Unit tests for component integration
+├── documentation/
+│   ├── project_report.pdf      # Detailed project report
+│   ├── code_review.pdf    # Detailed code review
 ├── hardware/
 │   ├── schematic.jpg        # Schematic of the system
 │   ├── block_diagram.png    # Block diagram for component connections
 │   ├── pcb.jpg    # PCB of the system
 │   ├── flow_chart.jpg    # Flow chart of the system
-├── documentation/
-│   ├── project_report.pdf      # Detailed project report
-│   ├── code_review.pdf    # Detailed code review
 └── README.md                # This README file
 ```
 
